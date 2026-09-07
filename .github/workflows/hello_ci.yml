@@ -4,4 +4,4 @@ jobs:
   runs-on: ubuntu-latest
   steps:
     - run: echo "Hello CI/CD"
-    - run: echo "Branche : $GITHUB_REF_NAME" "et Auteur : $GITHUB_ACTOR"
+    - run: echo "Branche $GITHUB_REF_NAME et Auteur $GITHUB_ACTOR"
