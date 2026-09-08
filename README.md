@@ -1,5 +1,7 @@
 # EPF CI/CD — Steeven Leroyer
 
+[![Hello CI](https://github.com/TempLast/epf-cicd-steeven/actions/workflows/hello_ci.yml/badge.svg?branch=main)](https://github.com/TempLast/epf-cicd-steeven/actions/workflows/hello_ci.yml)
+
 **Qu'est-ce qui déclenche la pipeline ? Pouvez-vous la déclencher autrement ?**
 - La pipeline est déclenché grâce au push que l'on execute dans notre fichier yml. On peut déclencher la pipeline autrement avec un script ou exécuter le fichier manuellement.
 
@@ -14,3 +16,4 @@
 
 **Qu'est-ce qui vous semble compliqué ? Qu'est-ce qui vous semble « magique » ?**
 - Retenir tout le fonctionnement du CI/CD (fichier yml, commande). Le fonctionnement du fichier (exécution).
+
