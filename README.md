@@ -13,4 +13,4 @@
 - Cela permettrait d'exécuter automatiquement certaine "tâches".
 
 **Qu'est-ce qui vous semble compliqué ? Qu'est-ce qui vous semble « magique » ?**
--
+- Retenir tout le fonctionnement du CI/CD (fichier yml, commande). Le fonctionnement du fichier (exécution).
